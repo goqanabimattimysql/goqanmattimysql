@@ -1,4 +1,4 @@
-# Göqanmattimysql
+# Göqanmattimysql TR (Gökan Abi)
 
 Ayakkabından su içilir abim
 

@@ -9,7 +9,8 @@ Ayakkabından su içilir abim
 
 # USE / Kullanım
 
-`mysql.async.execute = exports.goqanabimattim.execute
+```
+mysql.async.execute = exports.goqanabimattim.execute
 mysql.async.fetchall = exports.goqanabimattim:execute
 mysql.async.insert =  exports.goqanabimattim:execute
 mysql.sync.fetchall = exports.goqanabimattim:executeSync
@@ -33,7 +34,7 @@ mysql.ready = exports.goqanabimattim:ready(function()
         end)
     end)
     
-`
+```
 <img width="1804" height="1000" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://cdn.discordapp.com/attachments/856837932282150922/856983390209048656/unknown.png">
 
 Amanın anında
